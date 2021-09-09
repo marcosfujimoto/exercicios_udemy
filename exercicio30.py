@@ -1,4 +1,4 @@
-#Esse programa imprimir uma folha de pagamento
+#Esse programa imprime uma folha de pagamento
 salhora=float(input("Informe o valor ganho por hora: "))
 hour=int(input("Informa as horas trabalhadas no mês: "))
 salbruto= salhora*hour
